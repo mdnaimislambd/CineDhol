@@ -10,6 +10,6 @@ window.CINEDHOL = {
   TMDB_API_KEY: "6dc3ff4ec801f644c89bcc297ca771ee",
   TMDB_LANG: "en-US",
   TMDB_REGION: "BD",
-  ADSENSE_CLIENT_ID: "",
+  ADSENSE_CLIENT_ID: "ca-pub-8912117199500932",
   SITE_NAME: "CineDhol",
 };
