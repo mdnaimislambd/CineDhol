@@ -29,10 +29,7 @@ window.CINEDHOL_REVIEWS = [
       "Second paragraph: talk about the performances, direction, music, or visuals. What stood out to you, good or bad?",
       "Final paragraph: who would enjoy this film, and your closing verdict."
     ],
-    pros: ["Example: strong lead performance", "Example: beautiful cinematography"],
-    cons: ["Example: slow second half"]
-  },
-  {
+    
     {
   slug: "dune-part-two",
   title: "Dune: Part Two",
