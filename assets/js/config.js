@@ -7,7 +7,7 @@
       publisher ID, e.g. "ca-pub-1234567890123456". Leave empty until then.
    ============================================================ */
 window.CINEDHOL = {
-  TMDB_API_KEY: "",
+  TMDB_API_KEY: "6dc3ff4ec801f644c89bcc297ca771ee",
   TMDB_LANG: "en-US",
   TMDB_REGION: "BD",
   ADSENSE_CLIENT_ID: "",
