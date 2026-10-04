@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace with your real GitHub Pages URL
+Sitemap: https://mdnaimislambd.github.io/CineDhol/sitemap.xml
