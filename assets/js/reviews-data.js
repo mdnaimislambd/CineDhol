@@ -33,17 +33,18 @@ window.CINEDHOL_REVIEWS = [
     cons: ["Example: slow second half"]
   },
   {
-    slug: "sample-review-2",
-    title: "SAMPLE — Second example entry",
-    year: 2025,
-    stars: 3,
-    date: "2026-10-04",
-    excerpt: "Another sample entry. Your real reviews should be 200+ words each for AdSense.",
-    body: [
-      "Aim for at least 200–300 words per review. Original, honest reviews are what make AdSense approve a site like this.",
-      "You can write in Bengali, English, or both — write the way you speak to your friends about a movie."
-    ],
-    pros: ["Example pro point"],
-    cons: ["Example con point", "Second example con point"]
-  }
-];
+    {
+  slug: "dune-part-two",
+  title: "Dune: Part Two",
+  year: 2024,
+  stars: 5,
+  date: "2026-10-04",
+  excerpt: "চোখ ধাঁধানো সাই-ফাই — বড় পর্দায় না দেখলে মিস।",
+  body: [
+    "প্রথম প্যারায় স্পয়লার ছাড়া গল্পের সারসংক্ষেপ লেখো।",
+    "দ্বিতীয় প্যারায় অভিনয়, পরিচালনা, মিউজিক নিয়ে তোমার মতামত।",
+    "শেষ প্যারায় কাদের ভালো লাগবে আর তোমার ফাইনাল রায়।",
+  ],
+  pros: ["অসাধারণ ভিজ্যুয়াল", "হান্স জিমারের মিউজিক"],
+  cons: ["একটু লম্বা মনে হতে পারে"]
+},
