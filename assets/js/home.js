@@ -37,6 +37,11 @@ document.addEventListener("DOMContentLoaded", async function () {
     });
     addRow(main, "South Indian Cinema", null, south.results);
 
+    const bd = await CD.tmdb("/discover/movie", {
+      with_origin_country: "BD", sort_by: "popularity.desc", page: 1,
+    });
+    addRow(main, "Bangladeshi Cinema", null, bd.results);
+
     // Genre browser
     buildGenres(main);
 
