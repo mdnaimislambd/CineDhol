@@ -1,47 +1,29 @@
-/* ============================================================
-   CineDhol reviews — YOUR original content lives here.
-
-   AdSense approves sites with ORIGINAL content, so write your own
-   reviews in your own words (Bengali or English). Delete the two
-   SAMPLE entries below and add yours following the same format.
-
-   Fields:
-     slug    : unique id used in the URL, e.g. "dune-part-two"
-     title   : movie/show name
-     year    : release year
-     stars   : your rating, 1 to 5
-     date    : publish date (YYYY-MM-DD)
-     excerpt : 1–2 lines shown on the list page
-     body    : array of paragraphs (the full review)
-     pros    : array of short "what's good" points
-     cons    : array of short "what's not" points
-   ============================================================ */
+/* CineDhol reviews — original content. Add new reviews following the same format. */
 window.CINEDHOL_REVIEWS = [
   {
-    slug: "sample-review-1",
-    title: "SAMPLE — How to write a review",
+    slug: "the-odyssey-2026",
+    title: "The Odyssey",
     year: 2026,
-    stars: 4,
+    stars: 5,
     date: "2026-10-04",
-    excerpt: "This is a sample entry. Delete it and write your own review in your own words.",
+    excerpt: "Nolan's The Odyssey is this generation's defining epic — visually hypnotic, emotionally compelling, and his best film to date. See it on the biggest screen you can find.",
     body: [
-      "Replace this paragraph with your honest opinion of the film. What is the story about, in one or two lines, without spoilers?",
-      "Second paragraph: talk about the performances, direction, music, or visuals. What stood out to you, good or bad?",
-      "Final paragraph: who would enjoy this film, and your closing verdict."
+      "I've never fancied myself a devotee of Christopher Nolan. It's not dislike — that would be foolish, and lacking anything resembling cinematic integrity. It's just that I am The Independent Critic, and my devotions lie with the low-budget indie world, where films are made by the sweat of a filmmaker's brow and not much more than a maxed-out credit card.",
+      "The Odyssey was not made on a credit card budget.",
+      "So I acknowledge my surprise — and my relief — in saying that The Odyssey is my favorite Nolan film to date. Yes, I'll openly admit I prefer it to The Dark Knight, a film I remain firmly convinced wouldn't get near the love without Heath Ledger's Oscar-winning turn as the Joker.",
+      "A Nolan film is, more often than not, a good film in search of greatness. The Odyssey is a great film — perhaps this generation's defining epic. Working from translations of Homer's poem, Nolan weaves a tapestry of historical storytelling and signature Nolanisms that work far better than I ever expected.",
+      "With this many moving parts across just under three hours, it helps to know at least the basic framework. In my day you'd have picked up Cliff's Notes — though I'm fairly sure Cliff is dead now. These days you can check the Wikipedia page and hope for something resembling accuracy.",
+      "The story itself is relatively straightforward. Odysseus — played by a seldom-better Matt Damon — is trying to get home to his wife Penelope (Anne Hathaway) and his son Telemachus (Tom Holland) after the Trojan War. There is no easy journey to be had. It begins with the widespread belief that Odysseus is not actually dead, and a battle for his throne unfolds even as he does everything he can to return.",
+      "The Odyssey is Nolan's follow-up to 2023's multi-Oscar-winning Oppenheimer. Oppenheimer was certainly good enough, but its Best Picture win felt more like a lifetime achievement award. The Odyssey, on the other hand, is destined to come up often during awards season — and deservedly so. With an almost entirely A-list cast, Nolan draws A-list performances from nearly all of them, in the first film ever shot entirely on IMAX 70mm cameras.",
+      "Everything that has ever bothered me about a Nolan film is a non-issue here. In every sense of the word, he has created one of this generation's most memorable epics — gasp-inducing in scale, with action sequences visually hypnotic and choreographed to sublime perfection. I won't quite join those who find his films devoid of emotional resonance, but I'll gladly say The Odyssey is as emotionally compelling as it is visually stunning. Odysseus is the core, but Nolan immerses us in thread after narrative thread, character after character. At just under three hours, I'd have happily stayed another — something I've seldom said about any film, and certainly never about a Nolan film. I studied The Odyssey in high school. It was nothing like this. Next to this version, that one feels... quaint.",
+      "The creation of Polyphemus is masterful. If you don't know the character, you will. Nolan gives us an amplified sense of terror — setting aside certain aspects of Homer's tale I'd have loved to see, while still delivering a creature both terrifying and richly, deeply human. The scene in Polyphemus's cave stays with me still. So does Circe, played horrifyingly by the brilliant Samantha Morton.",
+      "It's hard to single out performances in an ensemble this massive. Damon, as noted, has seldom been better — yet he's often outshone by the sheer sizzling precision of Hathaway's Penelope. Himesh Patel is terrific as Eurylochus. Lupita Nyong'o takes a couple of onscreen minutes as Helen of Troy and Clytemnestra and absolutely owns them. And the best surprise may be Benny Safdie — yes, that Safdie — as Agamemnon.",
+      "There are A-listers here with only minutes of screen time, yet I remember their performances vividly. Zendaya has impressive moments. Robert Pattinson, as Antinous, is classically smarmy and fiercely memorable. Elliott Page gets his meatiest role in years and takes full advantage of it. And fresh off a career best in Bob Trevino Likes It, John Leguizamo absolutely kills it as Eumaeus.",
+      "The Odyssey deserves the biggest screen possible. My hometown of Indianapolis has one of only 25 true IMAX screens in the country, and I'm not sure I've ever been so grateful for that. But even on a smaller, more traditional screen, this is a film to see in a theater.",
+      "D.P. Hoyte van Hoytema does his usual reliable work, though a film like this demands a terrific technical ensemble — and gets one: Jennifer Lame's remarkable editing, Ruth De Jong's stellar production design, Ellen Mirojnick's costume design, and so much more, including yet another brilliant and destined-to-be-remembered original score from Ludwig Göransson. It's a different kind of Göransson score, and an absolute stunner alongside this epic storytelling.",
+      "There's more to be said. More to be felt. More to be heard. More to be understood. There's a reason Homer's Odyssey is still studied centuries after its creation. Nolan's Odyssey is about to bring it vividly to life for an entirely new generation.",
     ],
-    
-    {
-  slug: "dune-part-two",
-  title: "Dune: Part Two",
-  year: 2024,
-  stars: 5,
-  date: "2026-10-04",
-  excerpt: "চোখ ধাঁধানো সাই-ফাই — বড় পর্দায় না দেখলে মিস।",
-  body: [
-    "প্রথম প্যারায় স্পয়লার ছাড়া গল্পের সারসংক্ষেপ লেখো।",
-    "দ্বিতীয় প্যারায় অভিনয়, পরিচালনা, মিউজিক নিয়ে তোমার মতামত।",
-    "শেষ প্যারায় কাদের ভালো লাগবে আর তোমার ফাইনাল রায়।",
-  ],
-  pros: ["অসাধারণ ভিজ্যুয়াল", "হান্স জিমারের মিউজিক"],
-  cons: ["একটু লম্বা মনে হতে পারে"]
-},
+    pros: ["First film ever shot entirely on IMAX 70mm", "Matt Damon and Anne Hathaway at their very best", "Ludwig Göransson’s stunning original score", "Masterful, terrifying Polyphemus sequence"],
+    cons: ["Skips some aspects of Homer's tale", "Nearly three hours — demands a theatrical viewing"]
+  },
+];
