@@ -11,5 +11,6 @@ window.CINEDHOL = {
   TMDB_LANG: "en-US",
   TMDB_REGION: "BD",
   ADSENSE_CLIENT_ID: "ca-pub-8912117199500932",
+  GA_MEASUREMENT_ID: "", // e.g. "G-XXXXXXXXXX" — get it free at https://analytics.google.com/
   SITE_NAME: "CineDhol",
 };

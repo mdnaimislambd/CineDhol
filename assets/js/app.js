@@ -83,6 +83,20 @@
     return n;
   }
 
+  /* ---- Google Analytics (GA4) ---- */
+  function initAnalytics() {
+    const id = ((window.CINEDHOL || {}).GA_MEASUREMENT_ID || "").trim();
+    if (!id || /^G-?X+$/.test(id)) return;
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    const s1 = document.createElement("script");
+    s1.async = true;
+    s1.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(id);
+    document.head.appendChild(s1);
+    window.gtag("js", new Date());
+    window.gtag("config", id);
+  }
+
   /* ---- AdSense ---- */
   function fillSlot(slot, client) {
     if (slot.dataset.adDone) return;
@@ -159,6 +173,7 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    initAnalytics();
     initAds();
     markActiveNav();
   });
